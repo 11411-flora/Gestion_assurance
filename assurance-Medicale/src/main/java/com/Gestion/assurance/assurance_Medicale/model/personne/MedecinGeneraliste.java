@@ -1,5 +1,6 @@
 package com.Gestion.assurance.assurance_Medicale.model.personne;
 
+import com.Gestion.assurance.assurance_Medicale.model.consultation.PrescriptionConsultation;
 import jakarta.persistence.*;
 import java.util.ArrayList;
 import java.util.List;

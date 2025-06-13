@@ -1,8 +1,8 @@
 package com.Gestion.assurance.assurance_Medicale.model.enums;
 
-public enum StatutRemboursement {
+public enum StatutPrescription {
     EN_ATTENTE,
-    VALIDE,
-    PAYE,
-    REJETE
+    VALIDEE,
+    REALISEE,
+    ANNULEE
 }

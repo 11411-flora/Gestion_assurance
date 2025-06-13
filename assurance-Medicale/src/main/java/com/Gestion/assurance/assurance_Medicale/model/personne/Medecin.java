@@ -1,7 +1,10 @@
 package com.Gestion.assurance.assurance_Medicale.model.personne;
 
+import com.Gestion.assurance.assurance_Medicale.model.consultation.Consultation;
+import com.Gestion.assurance.assurance_Medicale.model.consultation.FeuilleDeMaladie;
 import jakarta.persistence.*;
 import java.util.ArrayList;
+import java.util.List;
 
 @Entity
 @Table(name = "medecins")

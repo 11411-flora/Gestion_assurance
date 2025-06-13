@@ -1,7 +1,10 @@
 package com.Gestion.assurance.assurance_Medicale.model.personne;
 
+import com.Gestion.assurance.assurance_Medicale.model.consultation.Consultation;
+import com.Gestion.assurance.assurance_Medicale.model.consultation.FeuilleDeMaladie;
+import com.Gestion.assurance.assurance_Medicale.model.enums.MethodePaiement;
 import jakarta.persistence.*;
-
+import java.util.List;
 import java.util.ArrayList;
 import java.util.Date;
 

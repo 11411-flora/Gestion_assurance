@@ -1,6 +1,6 @@
 package com.Gestion.assurance.assurance_Medicale.model.enums;
 
-public enum StatutPrescription {
+public enum StatutFeuille {
     EN_COURS,
     COMPLETEE,
     REMBOURSEE,
